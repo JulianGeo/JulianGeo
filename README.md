@@ -37,8 +37,7 @@ Here are some ideas to get you started:
 
 # 🌱 I’m currently working on projects to learn more about:
   - Design patterns
-  - AWS
-  - Spring security
+  - Blockchain development
 
 
 <!--
