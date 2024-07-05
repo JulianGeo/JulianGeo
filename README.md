@@ -17,17 +17,20 @@ Here are some ideas to get you started:
 # Julián Rojas
 
 # About me
-:man_technologist: Junior full-stack developer with emphasis on backend development, graduated from the MisiónTIC2022 and SOFKA Technologies bilingual training leagues programs. Experienced in personal full-stack projects using Java - Springboot - MySQL - MongoDB on the backend and Angular on the frontend. Geologist with over 3 years of experience in the Oil & Gas industry and petrophysical study of deep aquifers. Proficient in using GIS software, petrophysical modeling software, Python scripting for data science, and photogrammetric processing. Experienced in university teaching.
+:man_technologist: Full-stack developer with emphasis on backend development, experienced in designing, developing, testing and deploying enterprise software with the MVP-SPA architecture, using the PERN, MERN and MEAN stack. Graduated from the MisiónTIC2022 and SOFKA Technologies bilingual training leagues programs. Geologist with over 3 years of experience in the Oil & Gas industry and petrophysical study of deep aquifers. Proficient in using GIS software, petrophysical modeling software, Python scripting for data science, and photogrammetric processing. Experienced in university teaching.
 
 
-# 🤔 What I know as a junior dev
-  - MySql - MongoDB
-  - Java - springboot - rabbitMQ - Domain driven design
-  - Docker
-  - Python
+# 🤔 What I know as a dev
   - Javascript - typescript - html -css
+  - NodeJs - Nest - Express
+  - PostgreSQL - MySql - MongoDB
+  - React - Material UI
   - Angular - Angular material
+  - Java - springboot - rabbitMQ - Domain driven design
+  - Docker - Nginx
+  - Python
   - Git - github
+  - Linux
 
 # 🔭 Other technical skills:
   - Corel - Inkscape - Adobe Illustrator
@@ -37,14 +40,8 @@ Here are some ideas to get you started:
 
 # 🌱 I’m currently working on projects to learn more about:
   - Design patterns
-  - Blockchain development
-
-
-<!--
-**danielsanchez93** is a ✨ _special_ ✨ guy.
-- ⚡ Fun fact: ...
--->
-
+  - AWS
+  - CI/CD
 
 <div align="center">
   <h3 align="center">Networking 📫</h3> 
